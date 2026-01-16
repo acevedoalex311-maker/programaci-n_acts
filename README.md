@@ -1,2 +1,2 @@
 # programaci-n_acts
-Actividades - Master - Programación de Datos
+Actividades - Master Ciencia de Datos - Programación de Datos
